@@ -50,7 +50,7 @@ LONG PRESS 13, 15 (2s): REMOVE the currently highlighted oscillator.
 
 Switch 10 (Left) / 12 (Right): ISLAND SELECTOR
 
-CLICK 10, 12: Cycle focused effect: FILTER -> PAN -> CHORUS -> REVERB.
+CLICK 10, 12: Cycle focused effect: FILTER -> PAN -> CHORUS -> REVERB -> DELAY.
 
 QUICK CLICK 14, 16: Adds whatever the icon is.
 
