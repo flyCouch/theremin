@@ -44,7 +44,7 @@ state = {
     "v_l": 0.0,   "v_r": 0.0,
     "w_l": 0,     "w_r": 0,
     "smoothing": 0.32,
-    "gate": 500,     # Slightly wider active range
+    "gate": 1500,     # Slightly wider active range
     "ready": False
 }
 
