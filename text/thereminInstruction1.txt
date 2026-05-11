@@ -1,3 +1,7 @@
+This is pretty ambitious, might not get this far.
+We see.
+
+
 PROJECT: Tim's Theremin (Lyttle reSearch)
 REFERENCE: 432 Hz Natural Tuning
 STORAGE: 2MB Internal Flash (LittleFS)
